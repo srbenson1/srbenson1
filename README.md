@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://github.com/srbenson1/srbenson1/blob/main/assets/github-header-image.png)
+
 
 - 🌱 I’m currently learning everything I can about data
 - 👯 I’m looking to expand my horizons within the data space
