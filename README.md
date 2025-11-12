@@ -1,12 +1,7 @@
 ![I am GitHub Readme Generator's creator](https://github.com/srbenson1/srbenson1/blob/main/assets/github-header-image.png)
 
-I'm mostly using GitHub to build and submit assignments, but I'm also looking to engage in the development community and get some experience contributing to interesting open-source projects.
-
-Skills: Python, Java, C++
-
-- 🔭 I’m currently working on my CS degree 
-- 🌱 I’m currently learning everything I can about SDR 
-- 👯 I’m looking to collaborate on open-source projects 
+- 🌱 I’m currently learning everything I can about data
+- 👯 I’m looking to expand my horizons within the data space
 - 💬 Ask me about almost anything 
 
 
